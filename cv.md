@@ -21,7 +21,7 @@
     <br/>
     <div>
         <h3>ABOUT MYSELF</h3>
-        <p>Since the beginning of 2021, I have been studying programming, and I completely devote myself only to it. I am distinguished by good soft skills and stable growth in hard skills - now it is mainly JavaScript and TypeScript.
+        <p>Since the beginning of 2021, I have been studying programming, and I completely devote myself only to it. I am distinguished by good soft skills and stable growth in hard skills - now it is mainly JavaScript and TypeScript. <br/>
         I love learning new technologies and applying them in my work to improve the product being developed. I'm always want to know more and improves quality of my produced code.
         </p>
         <h3>TECHNICAL SKILLS</h3>
@@ -40,8 +40,8 @@
         </p>
         <h3>LANGUAGES</h3>
         <p>
-            English - Intermediate  
-            Russian - Native Speaker  
+            English - Intermediate <br/>
+            Russian - Native Speaker <br/>
             Belarussian - Native Speaker  
         </p>
         <h3>CODE EXAMPLE</h3>

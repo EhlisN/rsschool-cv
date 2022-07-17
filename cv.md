@@ -40,12 +40,12 @@
         </p>
         <h3>LANGUAGES</h3>
         <p>
-            English - Intermediate
-            Russian - Native Speaker
-            Belarussian - Native Speaker
+            English - Intermediate  
+            Russian - Native Speaker  
+            Belarussian - Native Speaker  
         </p>
         <h3>CODE EXAMPLE</h3>
-        <script>
+        <pre>
             String.prototype.toJadenCase = function () {
                 let arrStr = this.split(' ');
                 let newStr = '';
@@ -58,6 +58,6 @@
                 }
                   return newStr;
               };
-        </script>
+        </pre>
     </div>
 </div>

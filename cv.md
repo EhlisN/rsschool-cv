@@ -1,1 +1,1 @@
-[My photo](IMG_3224min.jpg)
+[My photo](IMG_3224min.jpg){ width=10% }

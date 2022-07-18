@@ -1,6 +1,7 @@
 <img src="IMG_3224min.jpg" alt="My photo" width="200"/>  
-#Natallia Ehlis  
-##Frontend Developer  
+
+# Natallia Ehlis  
+## Frontend Developer  
   
 My phone: +375336617223  
 My email: natasha.ehlis@gmail.com  

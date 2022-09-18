@@ -8,6 +8,8 @@ Phone: +375-33-661 72 23
 
 Email: natasha.ehlis@gmail.com
 
+Discord: Natalli#1911
+
 Linkedin:
 [https://www.linkedin.com/in/natallia-ehlis-b32006223](https://www.linkedin.com/in/natallia-ehlis-b32006223)
 

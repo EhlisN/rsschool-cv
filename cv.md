@@ -12,3 +12,66 @@ Linkedin:
 ## About me
 
 Since 2021, I have been studying programming, and I am fully focused on that. I have good soft skills and a stable growth of hard skills. I want to become part of the company and join a talented team, so I can be useful, improve my technical skills and grow as a specialist.
+
+## Skills
+
+- Web-development - HTML, CSS, JavaScript
+- Version control - Git, Github
+- Graphics - Figma, Photoshop
+- Preprocessor - SASS
+- CSS Framework - Bootstrap
+- Frameworks and libraries - React (basic), Angular
+- Module bundler - Webpack
+
+## Languages
+
+English - Elementary
+
+Russian - Native Speaker
+
+Belarussian - Native Speaker
+
+## Courses and certificates
+
+#### IT Step Academy
+
+_Frontend developer / December 2021 - October 2022_
+
+I have learned how to develop web pages using HTML and CSS, I have developed websites with adaptive and semantic layout. I have learned client side scripting using JavaScript, OOP and its core concepts. I have processed and parsed data using JSON, the principles of creating asynchronous API request I have implemented an application in React (TypeScript) I have learned basic knowledge of working with Angular.
+
+## Work experience
+
+#### Sector Head. Accounting.
+
+_LLC "Evrotorg" | December 2010 - December 2016_
+
+As a Sector Head:
+
+- I managed a department with a staff of 13 accountants
+- I supervised the work of economists
+  As an accountant:
+- I kept records of inventory items in retail trade
+- I worked with primary accouting documents (invoices, acts)
+- I exhibited, signed and kept records of the ESCF
+
+#### Salesman. Store manager.
+
+_June 2005 - December 2010_
+
+- I consulted buyers
+- I worked with cash registers
+- I supervised the products
+
+## Education
+
+#### International Institute for the Humanities and Economics
+
+_2006-2010_
+
+Economics and management at the enterprise
+
+#### College of Commerce
+
+_2001-2005_
+
+Merchandiser

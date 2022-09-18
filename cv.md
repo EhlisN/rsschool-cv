@@ -82,9 +82,9 @@ Merchandiser
 
 [https://github.com/EhlisN/brain-games](https://github.com/EhlisN/brain-games)
 
-#### Products
-
 I used functional: React, TypeScript, Axios, Bootstrap
+
+#### Products
 
 [https://github.com/EhlisN/Products-React](https://github.com/EhlisN/Products-React)
 

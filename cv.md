@@ -75,3 +75,39 @@ Economics and management at the enterprise
 _2001-2005_
 
 Merchandiser
+
+## My projects:
+
+#### Brain-games
+
+[https://github.com/EhlisN/brain-games](https://github.com/EhlisN/brain-games)
+
+#### Products
+
+I used functional: React, TypeScript, Axios, Bootstrap
+
+[https://github.com/EhlisN/Products-React](https://github.com/EhlisN/Products-React)
+
+I used functional: React, TypeScript, Axios, Bootstrap
+
+#### Users
+
+[https://github.com/EhlisN/ReactApp](https://github.com/EhlisN/ReactApp)
+
+I used functional: React, TypeScript, Axios, Bootstrap, Redux
+
+## Code Example
+
+```
+function nthFibo(n) {
+  if(n == 1) return 0;
+  let x = 0;
+  let res = 1;
+  for(let i = 3; i <= n; i++) {
+      let c = x + res;
+      x = res;
+      res = c;
+  }
+  return res;
+}
+```
